@@ -1,0 +1,89 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700;800;900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  background: #030303;
+}
+
+.container {
+  /* max-width: 1200px; */
+  width: 1200px;
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* ======================================================= */
+
+@media (min-width: 426px) and (max-width: 487px) {
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body {
+    font-family: "Inter", sans-serif;
+    background: #030303;
+  }
+
+  .container {
+    /* max-width: 425px; */
+    width: 487px;
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+  }
+}
+
+/* ======================================================= */
+
+@media (min-width: 376px) and (max-width: 425px)  {
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body {
+    font-family: "Inter", sans-serif;
+    background: #030303;
+  }
+
+  .container {
+    /* max-width: 425px; */
+    width: 425px;
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+  }
+}
+
+/* ======================================================= */
+
+@media (min-width: 320px) and (max-width: 375px) {
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body {
+    font-family: "Inter", sans-serif;
+    background: #030303;
+  }
+
+  .container {
+    /* max-width: 375px; */
+    width: 375px;
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+  }
+}
