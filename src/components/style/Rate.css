@@ -12,19 +12,18 @@
 .control-baner-them {
   display: flex;
   flex-direction: row;
-  align-items: center;
-  font-size: 14px;
+  font-size: 18px;
   justify-content: space-between;
   padding-top: 18px;
   font-weight: 400;
 }
 
 .control-baner-them p{
-  width: 90px;
+  width: 120px;
 }
 
 .control-baner-them span {
-  font-size: 20px;
+  font-size: 22px;
   padding-right: 10px;
 }
 
@@ -38,13 +37,22 @@
 .p-price {
   display: flex;
   justify-content: space-between;
+  align-items: center;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 16px;
   padding-top: 18px;
+  padding-bottom: 15px;
+}
+
+.name-icons-center{
+  display: flex;
+  align-items: center;
+  column-gap: 10px;
+  width: 90px;
 }
 
 .icons-rate-baner {
-  padding-right: "10px";
+  width: 22px;
 }
 
 /* ================================================================== */
@@ -60,13 +68,19 @@
   .control-baner-them {
     display: flex;
     flex-direction: row;
-    align-items: center;
-    font-size: 14px;
+    font-size: 18px;
+    justify-content: space-between;
+    padding-top: 18px;
     font-weight: 400;
   }
-
+  
+  .control-baner-them p{
+    width: 120px;
+  }
+  
   .control-baner-them span {
-    font-size: 14px;
+    font-size: 22px;
+    padding-right: 10px;
   }
 
   .hr-w {
@@ -77,12 +91,23 @@
 
   .p-price {
     display: flex;
+    justify-content: space-between;
+    align-items: center;
     font-weight: 400;
-    font-size: 14px;
-    padding: 10px 0;
+    font-size: 16px;
+    padding-top: 18px;
+    padding-bottom: 15px;
   }
+  
+  .name-icons-center{
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+    width: 90px;
+  }
+  
   .icons-rate-baner {
-    padding-right: 10px;
+    width: 22px;
   }
 }
 
@@ -103,13 +128,19 @@
   .control-baner-them {
     display: flex;
     flex-direction: row;
-    align-items: center;
-    font-size: 14px;
+    font-size: 18px;
+    justify-content: space-between;
+    padding-top: 18px;
     font-weight: 400;
   }
-
+  
+  .control-baner-them p{
+    width: 120px;
+  }
+  
   .control-baner-them span {
-    font-size: 14px;
+    font-size: 22px;
+    padding-right: 10px;
   }
 
   .hr-w {
@@ -120,11 +151,23 @@
 
   .p-price {
     display: flex;
+    justify-content: space-between;
+    align-items: center;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 16px;
+    padding-top: 18px;
+    padding-bottom: 15px;
   }
+  
+  .name-icons-center{
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+    width: 90px;
+  }
+  
   .icons-rate-baner {
-    padding-right: 10px;
+    width: 22px;
   }
 }
 
@@ -145,13 +188,19 @@
   .control-baner-them {
     display: flex;
     flex-direction: row;
-    align-items: center;
-    font-size: 14px;
+    font-size: 18px;
+    justify-content: space-between;
+    padding-top: 18px;
     font-weight: 400;
   }
-
+  
+  .control-baner-them p{
+    width: 120px;
+  }
+  
   .control-baner-them span {
-    font-size: 14px;
+    font-size: 22px;
+    padding-right: 10px;
   }
 
   .hr-w {
@@ -162,10 +211,21 @@
 
   .p-price {
     display: flex;
+    justify-content: space-between;
+    align-items: center;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 16px;
+    padding-top: 18px;
+    padding-bottom: 15px;
   }
+  .name-icons-center{
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+    width: 90px;
+  }
+  
   .icons-rate-baner {
-    padding-right: 10px;
+    width: 22px;
   }
 }
